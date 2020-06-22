@@ -1,1 +1,1 @@
-# HumanVideoGeneration
+# Human Video Generation
